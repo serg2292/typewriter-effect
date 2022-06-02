@@ -1,3 +1,8 @@
+body {
+  box-sizing: border-box;
+}
+
+
 .typewriter-effect {
   display: flex;
   justify-content: center;
